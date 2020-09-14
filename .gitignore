@@ -37,3 +37,7 @@ Thumbs.db
 # Some datasets
 *.csv
 */data/*
+Datasets/*
+
+# Example Notebooks
+*/sample.ipynb
